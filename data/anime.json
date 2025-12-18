@@ -18,17 +18,17 @@
     "news": []
   },
   {
-    "id": "demo-2",
-    "name": "Attack on Titan",
+    "id": "Titanlar Hujumi",
+    "name": "Titanlar Hujumi",
     "description": "Gigantik devalar insonni yutishdan oldin, insoniyat devorlari bilan himoyalangan shaxarda yashaydi.",
     "genres": "Action, Fantasy, Dark",
-    "poster": "https://via.placeholder.com/200x300/ff006e/ffffff?text=AOT",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v5vHh3DcyOb3ozOOYwcBNVZQ7PQkHcoyIw&s",
     "status": "Tugallangan",
     "rating": "8.9",
-    "link": "https://t.me/anime",
+    "link": "https://t.me/Jodugarlar_Jangi_Uzbek",
     "likes": 0,
-    "year": "2013",
-    "episodes": "75",
+    "year": "2022",
+    "episodes": "47",
     "studio": "Studio 2",
     "director": "Director 2",
     "trailer": "",
@@ -37,11 +37,11 @@
   },
   {
     "id": "demo-3",
-    "name": "My Hero Academia",
+    "name": "O'lim Kundaligi",
     "description": "Super qobiliyatlar dunyosi va yosh qahramonlarning o'sishi hikoyasi.",
     "genres": "Action, Comedy, School",
-    "poster": "https://via.placeholder.com/200x300/fb5607/ffffff?text=MHA",
-    "status": "Davom etmoqda",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMiKGdSOZWV6hHR84jicxfbczkrJ2iibeGw&s",
+    "status": "Tugallangan",
     "rating": "8.2",
     "link": "https://t.me/anime",
     "likes": 0,
@@ -53,4 +53,23 @@
     "screenshots": [],
     "news": []
   }
+    {
+    "id": "Voleybol Haikyu",
+    "name": "Voleybol Haikyu",
+    "description": "Super qobiliyatlar dunyosi va yosh qahramonlarning o'sishi hikoyasi.",
+    "genres": "Action, Comedy, School",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj8HJukTsOhu-e0TAgedtx5QP6wdqQ0EFiw&s",
+    "status": "Tugallangan",
+    "rating": "8.2",
+    "link": "https://t.me/voleybol_uzbekcha",
+    "likes": 0,
+    "year": "2016",
+    "episodes": "120",
+    "studio": "Studio 3",
+    "director": "Director 3",
+    "trailer": "",
+    "screenshots": [],
+    "news": []
+  }
 ]
+
